@@ -124,4 +124,6 @@ _お疲れさまでした。ご協力いただき、どうもありがとうご�
 
 * * *
 
-このテンプレート初版は_[本橋 正成](http://www.facebook.com/motohasi) <motohasi@gmail.com>_ が作成し、CC-BY-SAのライセンスで公開します(2013)。
+このテンプレート初版は_[本橋 正成](http://www.facebook.com/motohasi) <motohasi@gmail.com>_ が作成し、[CC-BY-SAのライセンス](http://creativecommons.org/licenses/by-sa/3.0/deed.ja)で公開します(2013)。
+
+
